@@ -1,0 +1,3 @@
+k  IN  A  208.113.135.169
+k  IN  AAAA 2607:f298:5:101d:f816:3eff:fe65:4fb
+www.k  IN  CNAME  k.o.
